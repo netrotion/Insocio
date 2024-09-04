@@ -3,5 +3,9 @@
     "4/9/2024" : "Added key config feature",
     "4/9/2024"  : "Added purchase feature"
   },
+  "software" : {
+    "version" : "1.0",
+    "update_url" : null
+  },
   "others" : {}
 }
